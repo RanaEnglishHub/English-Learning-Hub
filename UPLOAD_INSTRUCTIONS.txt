@@ -1,0 +1,11 @@
+English Learning Hub - Grade 9 General update
+
+1. Extract this ZIP.
+2. In your existing website repository, replace only the ROOT index.html with the supplied index.html.
+3. Upload the complete grade9-general folder at the same level as grade9-advanced and the other grade folders.
+4. Keep all existing folders and files. This is an ADD-ON, not a complete replacement of the website.
+5. Commit the files and wait for GitHub Pages to finish updating. Open Grade 9 General from the home page.
+
+The existing End-of-Term hub index was not supplied. The new Grade 9 General exam practice is accessible directly from the main home page and inside grade9-general. To also add a card inside the existing assessment hub, provide eot1-2026-2027/index.html.
+
+Verification: JavaScript syntax, internal anchors, question records, text lengths and preservation of existing home-page links were checked. Browser rendering and the live GitHub website were not tested or deployed.
